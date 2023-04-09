@@ -1,11 +1,11 @@
 # ResourceManager
 
-Install below PIP packages:
+### Install below PIP packages in Windows OS:
     pip3 install customtkinter
     pip install artifactory==0.1.17
     pip uninstall pathlib
 
-How to convert python script to Windows executable?
+### How to convert python script to Windows executable?
     pip3 install pyinstaller
     Open PowerShell window here
     copy pyinstaller path from the output of "pip3 show pyinstaller"
